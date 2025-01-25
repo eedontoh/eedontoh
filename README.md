@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eedontoh
-- 👀 I’m interested in cloud engineering
-- 🌱 I’m currently preparing for the AWS SAA C03
+- 👀 I’m interested in cloud devops engineering
+- 🌱 I’m currently 2x AWS SAA | CCP
 - 💞️ I’m looking to collaborate on cloud engineering projects
 - 📫 How to reach me on eedontoh@outlook.com
 - 😄 Pronouns: We
