@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eedontoh
+- 👋 Hi, I’m Evans Dontoh
 - 👀 I’m interested in cloud devops engineering
 - 🌱 I’m currently 2x AWS SAA | CCP
 - 💞️ I’m looking to collaborate on cloud engineering projects
