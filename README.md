@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cloud engineering projects
 - 📫 How to reach me on eedontoh@outlook.com
 - 😄 Pronouns: We
-- ⚡ Fun fact: Lives in the terminal.
+- ⚡ Fun fact: I lives in the terminal.
 
 <!---
 eedontoh/eedontoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
